@@ -2,8 +2,6 @@ package ABMLBobConstruye;
 
 import java.util.*;
 
-import SuperABML.Electronica;
-
 public class Gestor {
 
 	public static void main(String[] args) {
